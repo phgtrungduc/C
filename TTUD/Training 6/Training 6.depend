@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1591662019 source:f:\c\ttud\training 6\connectedcomponents.cpp
+	<bits/stdc++.h>
+
+1591662260 source:f:\c\ttud\training 6\bipartie graph.cpp
+	<bits/stdc++.h>
+
+1594257211 source:f:\c\ttud\training 6\test.cpp
+	<bits/stdc++.h>
+
+1591723370 source:f:\c\ttud\training 6\union-find.cpp
+	<bits/stdc++.h>
+
+1591733039 source:f:\c\ttud\training 6\icbus.cpp
+	<bits/stdc++.h>
+
+1591930466 source:f:\c\ttud\training 6\addedge.cpp
+	<bits/stdc++.h>
+
+1591933187 source:f:\c\ttud\training 6\strongconnectedcomponent.cpp
+	<bits/stdc++.h>
+
+1592196589 source:f:\c\ttud\training 6\kruskal.cpp
+	<bits/stdc++.h>
+
+1594266619 source:f:\c\ttud\training 6\prim.cpp
+	<bits/stdc++.h>
+
+1592193185 source:f:\c\ttud\training 6\k-mst.cpp
+	<bits/stdc++.h>
+
+1594258204 source:f:\c\ttud\training 6\shortest path priority queue.cpp
+	<bits/stdc++.h>
+
+1592267952 source:f:\c\ttud\training 6\minimum spanning tree.cpp
+	<bits/stdc++.h>
+
+1592376617 source:f:\c\ttud\training 6\lcount.cpp
+	<bits/stdc++.h>
+
+1592488969 source:f:\c\ttud\training 6\count spanning trees.cpp
+	<bits/stdc++.h>
+
+1594305352 source:f:\c\ttud\training 6\buglife.cpp
+	<bits/stdc++.h>
+
+1594307433 source:f:\c\ttud\training 6\elevtrbl.cpp
+	<bits/stdc++.h>
+
+1594310293 source:f:\c\ttud\training 6\bfs temp.cpp
+	<bits/stdc++.h>
+
+1594310937 source:f:\c\ttud\training 6\elevtrbl .cpp
+	<bits/stdc++.h>
+
+1594313135 source:f:\c\ttud\training 6\max_clique.cpp
+	<bits/stdc++.h>
+
+1594398402 source:f:\c\ttud\exam\exam\temp.cpp
+	<bits/stdc++.h>
+
+1594432507 source:f:\c\ttud\training 6\k-cycle.cpp
+	<bits/stdc++.h>
+

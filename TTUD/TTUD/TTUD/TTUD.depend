@@ -1,0 +1,168 @@
+# depslib dependency file v1.0
+1594350396 source:f:\c\ttud\ttud\ttud\abc.cpp
+	<iostream>
+	<algorithm>
+
+1584590998 source:f:\c\ttud\ttud\ttud\addbig.cpp
+	<iostream>
+	<string>
+
+1583882772 source:f:\c\ttud\ttud\ttud\addbigint.cpp
+	<iostream>
+	<string>
+
+1584347495 source:f:\c\ttud\ttud\ttud\addmod.cpp
+	<iostream>
+	<math.h>
+
+1589672923 source:f:\c\ttud\ttud\ttud\aggrcow.cpp
+	<iostream>
+	<algorithm>
+
+1589707922 source:f:\c\ttud\ttud\ttud\aggrcow2.cpp
+	<iostream>
+	<algorithm>
+
+1587744411 source:f:\c\ttud\ttud\ttud\array.cpp
+	<iostream>
+	<vector>
+
+1586325855 source:f:\c\ttud\ttud\ttud\arraymanipulation.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+
+1586427107 source:f:\c\ttud\ttud\ttud\bacp.cpp
+	<iostream>
+
+1582341543 source:f:\c\ttud\ttud\ttud\balancetree.cpp
+	<iostream>
+
+1586325845 source:f:\c\ttud\ttud\ttud\bca.cpp
+	<iostream>
+
+1587563134 source:f:\c\ttud\ttud\ttud\binarygen.cpp
+	<iostream>
+	<string>
+
+1587485058 source:f:\c\ttud\ttud\ttud\books1.cpp
+	<iostream>
+	<algorithm>
+
+1587868519 source:f:\c\ttud\ttud\ttud\boundsubseq.cpp
+	<iostream>
+
+1587873479 source:f:\c\ttud\ttud\ttud\brcount.cpp
+	<iostream>
+	<string>
+	<stack>
+
+1586315025 source:f:\c\ttud\ttud\ttud\caitui.cpp
+	<iostream>
+
+1586421680 source:f:\c\ttud\ttud\ttud\cbus.cpp
+	<iostream>
+
+1586315721 source:f:\c\ttud\ttud\ttud\cbus2.cpp
+	<iostream>
+
+1583911448 source:f:\c\ttud\ttud\ttud\checkdoixung.cpp
+	<iostream>
+	<deque>
+
+1585106665 source:f:\c\ttud\ttud\ttud\cmt.cpp
+	<iostream>
+
+1587702299 source:f:\c\ttud\ttud\ttud\combinationgen.cpp
+	<iostream>
+
+1582379060 source:f:\c\ttud\ttud\ttud\countcurrency.cpp
+	<iostream>
+	<map>
+
+1587147506 source:f:\c\ttud\ttud\ttud\cvrpcount.cpp
+	<iostream>
+
+1586284556 source:f:\c\ttud\ttud\ttud\cvrpcount2.cpp
+	<stdio.h>
+	<conio.h>
+	<iostream>
+
+1587148168 source:f:\c\ttud\ttud\ttud\cvrpopt.cpp
+	<iostream>
+
+1586989450 source:f:\c\ttud\ttud\ttud\daycontonglonnhat.cpp
+	<iostream>
+	<minmax.h>
+
+1585233995 source:f:\c\ttud\ttud\ttud\daynhiphan.cpp
+	<iostream>
+
+1587150546 source:f:\c\ttud\ttud\ttud\digits.cpp
+	<iostream>
+	<string>
+
+1587873185 source:f:\c\ttud\ttud\ttud\doi.cpp
+	<iostream>
+	<algorithm>
+
+1589722745 source:f:\c\ttud\ttud\ttud\doitien.cpp
+	<iostream>
+	<algorithm>
+
+1590147674 source:f:\c\ttud\ttud\ttud\eko.cpp
+	<iostream>
+	<algorithm>
+
+1585877657 source:f:\c\ttud\ttud\ttud\expmod.cpp
+	<iostream>
+
+1584627394 source:f:\c\ttud\ttud\ttud\fibonacii.cpp
+	<iostream>
+
+1588172754 source:f:\c\ttud\ttud\ttud\goldmining.cpp
+	<iostream>
+	<algorithm>
+
+1589338926 source:f:\c\ttud\ttud\ttud\goldmining2.cpp
+	<bits/stdc++.h>
+
+1589706963 source:f:\c\ttud\ttud\ttud\hello.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1583255077 source:f:\c\ttud\ttud\ttud\hist.cpp
+
+1583327423 source:f:\c\ttud\ttud\ttud\histfinal.cpp
+	<iostream>
+	<stack>
+	<vector>
+
+1582447986 source:f:\c\ttud\ttud\ttud\hoanvi.cpp
+	<iostream>
+	<vector>
+
+1587577926 source:f:\c\ttud\ttud\ttud\holeynqueens.cpp
+	<iostream>
+
+1588133043 source:f:\c\ttud\ttud\ttud\increasesubque.cpp
+	<iostream>
+	<algorithm>
+
+1586361979 source:f:\c\ttud\ttud\ttud\knapsback.cpp
+	<iostream>
+
+1587699027 source:f:\c\ttud\ttud\ttud\kpath.cpp
+	<iostream>
+
+1594350244 source:f:\c\ttud\ttud\ttud\retailoutlets 2.cpp
+	<iostream>
+	<algorithm>
+
+1594350551 source:f:\c\ttud\ttud\ttud\helloworld.cpp
+	<iostream>
+	<algorithm>
+

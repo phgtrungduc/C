@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1594350396 source:f:\c\ttud\ttud\ttud\abc.cpp
+	<iostream>
+	<algorithm>
+
+1594352046 source:f:\c\ttud\ttud\ttud\retailoutlets 2.cpp
+	<iostream>
+	<algorithm>
+
+1594370456 source:f:\c\ttud\ttud\ttud\doitien.cpp
+	<iostream>
+	<algorithm>
+
+1594377881 source:f:\c\ttud\ttud\ttud\increasesubque.cpp
+	<iostream>
+	<algorithm>
+
